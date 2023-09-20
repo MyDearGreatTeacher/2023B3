@@ -12,6 +12,7 @@
 - [Forensics Wiki](https://forensicswiki.xyz/page/Main_Page)
 
 ## 參考書籍與推薦章節
+- [電子數據取證 林曉東Xiaodong Lin](https://www.tenlong.com.tw/products/9787111694557?list_name=srh)
 - [Digital Forensics and Incident Response - Second Edition(2020)](https://www.packtpub.com/product/digital-forensics-and-incident-response-second-edition/9781838649005)
 
 # 國際知名課程與專業證照
