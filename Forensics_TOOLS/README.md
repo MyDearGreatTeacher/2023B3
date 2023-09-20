@@ -1,5 +1,9 @@
 # 資料來源 ==> awesome Forensics
 - 依主題標列[awesome-forensics](https://cugu.github.io/awesome-forensics/LIBS.html)
+- [Awesome Forensics](https://github.com/cugu/awesome-forensics)
+- [awesome-forensics](https://github.com/alphaSeclab/awesome-forensics)
+- [Awesome DFIR - Digital Forensics & Incident Response ](https://awesomedfir.com/)
+
 # 重要工具
 - [TSK|The Sleuth Kit®_Windows Binaries](https://www.sleuthkit.org/sleuthkit/download.php)
 - [Autopsy](https://www.autopsy.com/download/)
