@@ -12,6 +12,7 @@
 # 重要工具:linux
 - SANS Investigative Forensics Toolkit (sift) - Linux distribution for forensic analysis
   - [下載G3.5B](https://www.sans.org/tools/sift-workstation/)
+  - Login = sansforensics + Password = forensics
   - 1. The Sleuth Kit/Autopsy · 2. Volatility · 3. RegRipper · 4. Wireshark · 5. Plaso/Log2Timeline 
 # 主題
 - Windows Forensics
