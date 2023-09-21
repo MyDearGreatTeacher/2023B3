@@ -3,6 +3,7 @@
 - [Awesome Forensics](https://github.com/cugu/awesome-forensics)
 - [awesome-forensics](https://github.com/alphaSeclab/awesome-forensics)
 - [Awesome DFIR - Digital Forensics & Incident Response ](https://awesomedfir.com/)
+- [FORENSIC CHALLENGES](https://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
 
 # 重要工具
 - [TSK|The Sleuth Kit®_Windows Binaries](https://www.sleuthkit.org/sleuthkit/download.php)
