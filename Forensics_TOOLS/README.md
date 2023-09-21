@@ -5,10 +5,14 @@
 - [Awesome DFIR - Digital Forensics & Incident Response ](https://awesomedfir.com/)
 - [FORENSIC CHALLENGES](https://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
 
-# 重要工具
+# 重要工具:Windows
 - [TSK|The Sleuth Kit®_Windows Binaries](https://www.sleuthkit.org/sleuthkit/download.php)
 - [Autopsy](https://www.autopsy.com/download/)
 
+# 重要工具:linux
+- SANS Investigative Forensics Toolkit (sift) - Linux distribution for forensic analysis
+  - [下載](https://www.sans.org/tools/sift-workstation/)
+  - 1. The Sleuth Kit/Autopsy · 2. Volatility · 3. RegRipper · 4. Wireshark · 5. Plaso/Log2Timeline 
 # 主題
 - Windows Forensics
 - Linux Forensics
