@@ -1,3 +1,7 @@
+# Forensics_CTF_2022
+- [CTFlearn:The most beginner-friendly way to learn cyber security.](https://ctflearn.com/)
+- [簡單的解答](https://deskel.github.io/posts/ctflearn/forensics-easy)
+
 # 實戰主題(使用KALI linux 2019版本) 
 - Windows Forensics實戰主題
 - Linux Forensics實戰主題
