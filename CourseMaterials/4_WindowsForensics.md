@@ -25,4 +25,11 @@
   - Windows Active directory
   - 檢視Windows Active directory架構
   - Windows Active directory鑑識分析
+## 參考資料
 - [Windows Forensics Analysis — Tools And Resources](https://nasbench.medium.com/windows-forensics-analysis-tools-and-resources-b819c8b4b6b0)
+
+## YOUTUBE教學影片
+- [Introduction to Windows Forensics - Digital Forensics Course](https://www.youtube.com/watch?v=VYROU-ZwZX8)
+- [Windows Memory Analysis](https://www.youtube.com/watch?v=gHbejxlPbRQ)
+- [Live Forensics | How to Install Volatility 3 on Windows 11 Windows 10 | Symbol Tables Configuration](https://www.youtube.com/watch?v=-bMde2glwnE)
+- [ShellBag Forensics](https://www.youtube.com/watch?v=YvVemshnpKQ)
