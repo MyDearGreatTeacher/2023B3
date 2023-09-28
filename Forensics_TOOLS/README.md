@@ -8,6 +8,8 @@
 # 重要工具:Windows
 - [TSK|The Sleuth Kit®_Windows Binaries](https://www.sleuthkit.org/sleuthkit/download.php)
 - [Autopsy](https://www.autopsy.com/download/)
+- [FTK imager](https://www.exterro.com/ftk-imager)
+  - [[Day12]數位鑑識 x Wireshark x FTK Imager x NetworkMiner](https://ithelp.ithome.com.tw/articles/10186297) 
 
 # 重要工具:linux
 - SANS Investigative Forensics Toolkit (sift) - Linux distribution for forensic analysis
