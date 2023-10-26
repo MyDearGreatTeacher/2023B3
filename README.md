@@ -7,6 +7,15 @@
 - 期中平時(20%):Linux Forensics
 - 期末平時(20%):Network Forensics
 
+## 期中考(30%):Windows Forensics
+- 工具下載
+  - FTK imager
+  - Autopsy
+- 測試案例
+  - NIST: HACKING CASE  https://cfreds.nist.gov/all/NIST/HackingCase
+- 參考解答:
+  -  
+- [參考簡報]() 
 ## 學習資源
 - [Digital Forensics and Incident Response 大量主題列表](https://www.jaiminton.com/cheatsheet/DFIR/#)
 - [Windows Memory Analysis Checklist](https://www.dumpanalysis.org/windows-memory-analysis-checklist)
