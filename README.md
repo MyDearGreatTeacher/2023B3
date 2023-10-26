@@ -9,13 +9,14 @@
 
 ## 期中考(30%):Windows Forensics
 - 工具下載
-  - FTK imager
-  - Autopsy
+  - FTK imager: https://www.exterro.com/ftk-imager
+  - Autopsy:https://www.autopsy.com/download/
 - 測試案例
   - NIST: HACKING CASE  https://cfreds.nist.gov/all/NIST/HackingCase
 - 參考解答:
-  -  
-- [參考簡報]() 
+  - https://www.youtube.com/watch?v=nSP3TBB4OFQ
+  - https://www.youtube.com/watch?v=xoJEhp6S1h4
+- [參考簡報](https://drive.google.com/drive/folders/1UFqmXH_8-d1ChHTYKTo8MiKXUZJ8V6AA?usp=drive_link) 
 ## 學習資源
 - [Digital Forensics and Incident Response 大量主題列表](https://www.jaiminton.com/cheatsheet/DFIR/#)
 - [Windows Memory Analysis Checklist](https://www.dumpanalysis.org/windows-memory-analysis-checklist)
